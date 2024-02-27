@@ -1,1 +1,1 @@
-# n26-streaming
+# dns-over-tls
