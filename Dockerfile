@@ -1,3 +1,7 @@
+#----------------------------------#
+# Made by Pavel Dumenko 28.02.2024
+#----------------------------------#
+
 # Multi-stage build
 FROM golang:alpine as builder
 
