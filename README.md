@@ -60,7 +60,7 @@ containerized architecture?
 
     * Use container orchestration solutions for microservices: Kubernetes, EKS, OpenShift, GKE and so on. 
 
-    * Follow best practicies and IaC approach: keep config files as a code and wrap into variables. (Helm Charts, Terrafrom).
+    * Follow best practicies and IaC approach: keep config files as a code and wrap into variables. (Helm Charts, Terrafrom, OpenTofu).
 
     * In case of multiple instances of the DNS proxy service, use a load balancer to distribute traffic among them. By default Kubernetes provides out og the box functionality for service load balancing. Also can be the MetalLB for bare metal infrastructure. 
 
