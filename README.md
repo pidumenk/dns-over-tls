@@ -1,6 +1,4 @@
-# DNS OVER TLS
-
-## Usage
+## DNS OVER TLS
 
 ### Prerequisites
 - docker
